@@ -14,6 +14,8 @@
   <img align="left" alt="Umang's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
+</br>
+
 Hi, I'm **Umang Srivastava**, a Full Stack Developer 🚀 from India, currently, I'm work as a Software Engineer at Infogain India. I love to explore new and upcoming technologies. Beside's programming, I enjoy gaming, eating food and long bike rides.
 
 - 🔭 I’m currently working on a data science project :wink:
