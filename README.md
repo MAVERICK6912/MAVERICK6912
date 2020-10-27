@@ -14,7 +14,7 @@
   <img align="left" alt="Umang's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
-Hi, I'm **Umang Srivastava**, a Full Stack Developer 🚀 from India, currently, I'm work as a Software Engineer at Infogain India. I love to explore new and upcoming technoligies. Beside's programming, I enjoy gaming, eating food and long bike rides.
+Hi, I'm **Umang Srivastava**, a Full Stack Developer 🚀 from India, currently, I'm work as a Software Engineer at Infogain India. I love to explore new and upcoming technologies. Beside's programming, I enjoy gaming, eating food and long bike rides.
 
 - 🔭 I’m currently working on a data science project :wink:
 - 🌱 I’m currently learning: _```Data Science and Microservice architecture```_
@@ -39,7 +39,7 @@ Hi, I'm **Umang Srivastava**, a Full Stack Developer 🚀 from India, currently,
 ### My aim is to become a technology agnostic Solution Architect.
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>📈 My GitHub Stats(Click here for some fun stats)</summary>
   </br>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maverick6912&show_icons=true&locale=en&layout=compact&theme=gotham" alt="maverick6912" /></p>
   </br>
