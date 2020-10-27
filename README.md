@@ -21,7 +21,7 @@ Hi, I'm **Umang Srivastava**, a Full Stack Developer 🚀 from India, currently,
 - 🔭 I’m currently working on a data science project :wink:
 - 🌱 I’m currently learning: _```Data Science and Microservice architecture```_
 - 👯 I’m looking to collaborate on _Data Science and Micro Services_ based projects.
-- 💬 Ask me about: ```C#, Python, Data Science, Web APIs.```
+- 💬 Ask me about: ```C#, Python, Web APIs, Data Science.```
 - 📝 I write articles on [Outlier Chronicles](https://maverick6912.github.io/)
 - 📫 You can reach me through any of the above mentioned social handles.
 - ⚡ Fun fact: I'm a fan of Formula 1 and I love automobiles:heart:.
