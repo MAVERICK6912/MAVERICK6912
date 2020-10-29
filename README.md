@@ -18,7 +18,7 @@
 </br>
 </br>
 
-Hi, I'm **Umang Srivastava**, a Full Stack Developer 🚀 from India, currently, I'm working as a Software Engineer at Infogain India. I love to explore new and upcoming technologies. Beside's programming, I enjoy gaming, eating food and long bike rides.
+Hi, I'm **Umang Srivastava**, a Full Stack Developer 🚀 from India, currently, I'm working as a Software Engineer at Infogain India. I love to explore new and upcoming technologies. Beside's programming, I enjoy gaming, Formula 1 and long bike rides.
 
 - 🔭 I’m currently working on a data science project :wink:.
 - 🌱 I’m currently learning: _```Data Science and Microservice architecture```_.
